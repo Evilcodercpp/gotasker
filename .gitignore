@@ -1,0 +1,13 @@
+# Go binary files
+/bin
+/build
+*.exe
+*.test
+*.out
+
+# IDE configs
+.vscode/
+.idea/
+
+# Env files
+.env
